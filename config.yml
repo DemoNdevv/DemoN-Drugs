@@ -1,0 +1,50 @@
+# Dostepne zmienne: {NICK}, {ILOSC}, {PRZEDMIOT}
+# Autor: DemoN
+
+marihuana:
+  # Wiadomosc po zazyciu na glownym czacie
+  wiad1: "&8>> &7Gracz o nicku &a{NICK} &7wlasnie zapalil &2&lMARIHUANE&7!"
+  # Wiadomosc do gracza po zazyciu
+  wiad2: "&2&lDRUGS &8>> &7Wlasnie zazyles &2&lMARIHUANE&7!"
+  # Tytul wiadomosci na srodku ekranu
+  tytul: "&2&lFAZA ACTIVATED"
+  # Podtytul wiadomosci na srodku ekranu
+  podtytul: "Jestes pod wplywem narkotykow!"
+  # Wiadomosc przy braku przedmiotow
+  brakprzedm: "&2&lDRUGS &8>> &7Brakuje ci&a {ILOSC} , {PRZEDMIOT} &7!"
+  # Przedmiot ktorym placimy
+  przedmiot: "EMERALD_BLOCK"
+  # Ilosc tego przedmiotu
+  ilosc: 64
+
+amfetamina:
+  # Wiadomosc po zazyciu na glownym czacie
+  wiad1: "&8>> &7Gracz o nicku &a{NICK} &7wlasnie wciagnal &f&lAMFETAMINE&7!"
+  # Wiadomosc do gracza po zazyciu
+  wiad2: "&2&lDRUGS &8>> &7Wlasnie wciagnales &f&lAMFETAMINE&7!"
+  # Tytul wiadomosci na srodku ekranu
+  tytul: "&f&lFAZA ACTIVATED"
+  # Podtytul wiadomosci na srodku ekranu
+  podtytul: "Jestes pod wplywem narkotykow!"
+  # Wiadomosc przy braku przedmiotow
+  brakprzedm: "&2&lDRUGS &8>> &7Brakuje ci&a {ILOSC} , {PRZEDMIOT} &7!"
+  # Przedmiot ktorym placimy
+  przedmiot: "DIAMOND_BLOCK"
+  # Ilosc tego przedmiotu
+  ilosc: 32
+
+lean:
+  # Wiadomosc po zazyciu na glownym czacie
+  wiad1: "&8>> &7Gracz o nicku &a{NICK} &7wlasnie wypil &5&lLEAN&7!"
+  # Wiadomosc do gracza po zazyciu
+  wiad2: "&2&lDRUGS &8>> &7Wlasnie wypiles &5&lLEAN&7!"
+  # Tytul wiadomosci na srodku ekranu
+  tytul: "&5&lFAZA ACTIVATED"
+  # Podtytul wiadomosci na srodku ekranu
+  podtytul: "Jestes pod wplywem narkotykow!"
+  # Wiadomosc przy braku przedmiotow
+  brakprzedm: "&2&lDRUGS &8>> &7Brakuje ci&a {ILOSC} , {PRZEDMIOT} &7!"
+  # Przedmiot ktorym placimy
+  przedmiot: "IRON_BLOCK"
+  # Ilosc tego przedmiotu
+  ilosc: 16

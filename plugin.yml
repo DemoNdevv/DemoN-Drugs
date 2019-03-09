@@ -1,0 +1,9 @@
+main: pl.demonn.drugs.Main
+name: DemoN-Drugs
+author: _DemoNN_
+version: 1.0
+website: www.demondev.pl
+
+commands:
+  drugs:
+    aliases: [dragi, narkotyki]
